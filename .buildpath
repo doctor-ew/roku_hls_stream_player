@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<buildpath>
+	<buildpathentry kind="src" path="source"/>
+	<buildpathentry kind="src" path="out"/>
+	<buildpathentry kind="src" path="locale/en_US/images"/>
+	<buildpathentry kind="src" path="locale/fr_CA/images"/>
+	<buildpathentry kind="src" path="locale/de_DE/images"/>
+	<buildpathentry kind="src" path="locale/es_ES/images"/>
+	<buildpathentry kind="src" path="locale/default/images"/>
+</buildpath>

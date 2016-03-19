@@ -1,0 +1,13 @@
+title=Simple Grid Screen Example
+subtitle=Example of bringing up a Grid Screen
+major_version=1
+minor_version=0
+build_version=20160224133304
+mm_icon_focus_hd=pkg:/images/mm_icon_focus_hd.png
+mm_icon_side_hd=pkg:/images/mm_icon_side_hd.png
+mm_icon_focus_sd=pkg:/images/mm_icon_focus_sd.png
+mm_icon_side_sd=pkg:/images/mm_icon_side_sd.png
+splash_screen_sd=pkg:/images/asStreamsLogo.png
+splash_screen_hd=pkg:/images/asStreamsLogo.png
+splash_color=#ffff00
+splash_min_time=7
